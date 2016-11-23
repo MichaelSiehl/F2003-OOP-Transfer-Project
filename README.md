@@ -1,3 +1,6 @@
+# 161122: DELAYED
+Sorry, by now I've stopped any further thinking about this project, due to my newly started segment ordering project, which is currently very demanding.
+
 # F2003-OOP-Transfer-Project
 THIS REPOSITORY COMPRISES A PROJECT THAT AIMS TO TRANSFER OUR F95 STYLE OBJECTBASED EXAMPLE PROGRAM INTO A F2003 STYLE OOP PROGRAM
 
